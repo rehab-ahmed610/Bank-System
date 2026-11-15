@@ -8,5 +8,5 @@ A console-based Bank Management System developed in C++ applying structured prog
 ## ✨ Key Features
 * **Client Management:** Add, update, delete, find, and list all bank clients persisted in a text file (`clientsfile.txt`).
 * **Transactions Module:** Deposit, withdraw, and view total balances across all accounts.
-* **User & Permission System:** Role-based access control using bitwise permissions (`Manage Users`, `Transactions`, `Show/Add/Delete/Update Clients`).
-* 
+
+
